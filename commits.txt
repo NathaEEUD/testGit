@@ -1,0 +1,11 @@
+commit ade52e630439c36d76c83efa125cd226b03c3801
+Author: BOTTOM <natharb09@gmail.com>
+Date:   Thu Aug 23 12:48:57 2018 -0500
+
+    Se cambia el color del background a blanco
+
+commit fe3cc2b93361728e3f8881c77298fd3d0a6a4c6c
+Author: BOTTOM <natharb09@gmail.com>
+Date:   Thu Aug 23 12:46:50 2018 -0500
+
+    Inicio del proyecto, se cambia el color del background
